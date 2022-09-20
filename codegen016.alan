@@ -1,4 +1,0 @@
-source codegen016
-begin
-    put 69*420/666 rem 42
-end
