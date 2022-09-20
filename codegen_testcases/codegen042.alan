@@ -1,0 +1,4 @@
+source codegen042
+begin
+    put true or true
+end

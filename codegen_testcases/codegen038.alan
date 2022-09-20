@@ -1,0 +1,4 @@
+source codegen038
+begin
+    put false and true
+end
