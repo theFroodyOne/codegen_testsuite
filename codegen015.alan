@@ -1,4 +1,0 @@
-source codegen015
-begin
-    put 69*420 rem 666
-end
