@@ -9,4 +9,10 @@ Make sure jasmin.jar is in src folder or adjust testscript accordningly
 
 Dependencies: In.java
 
-Please add testcases I don't wanna write them all myself
+Test cases currently available:
+
+Test case 1: Trivial program(not really testing anything since there's no output but there ya go)
+
+Test case 2: String output(hello world)
+
+Test case 3-16 Mathematical expressions(exluding relative operations)
