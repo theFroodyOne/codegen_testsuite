@@ -17,4 +17,4 @@ Test case 2: String output(hello world)
 
 Test cases 3-34: Mathematical expressions
 
-Test cases 35-36 Basic boolean expressions
+Test cases 35-42 Basic boolean expressions
