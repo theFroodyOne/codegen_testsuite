@@ -1,0 +1,4 @@
+source codegen017
+begin
+    put 69 = 69
+end

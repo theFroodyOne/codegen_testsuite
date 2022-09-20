@@ -1,0 +1,4 @@
+source codegen013
+begin
+    put 69*420/666
+end

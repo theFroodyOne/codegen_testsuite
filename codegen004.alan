@@ -1,0 +1,4 @@
+source codegen004
+begin
+    put 2000000000 + 1
+end
