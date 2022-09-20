@@ -1,4 +1,0 @@
-source codegen009
-begin
-    put 69*420
-end
