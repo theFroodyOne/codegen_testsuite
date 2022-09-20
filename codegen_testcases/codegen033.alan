@@ -1,0 +1,4 @@
+source codegen033
+begin
+    put 69 >= 34 + 35 
+end
