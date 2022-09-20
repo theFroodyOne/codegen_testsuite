@@ -15,4 +15,4 @@ Test case 1: Trivial program(not really testing anything since there's no output
 
 Test case 2: String output(hello world)
 
-Test case 3-16 Mathematical expressions(exluding relative operations)
+Test case 3-36 Mathematical expressions
