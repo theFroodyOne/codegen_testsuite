@@ -1,0 +1,4 @@
+source codegen006
+begin
+    put 69 - 420
+end

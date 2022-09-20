@@ -2,7 +2,7 @@
 
 javac TestCodeGen.java
 export JASMIN_JAR=../src/jasmin.jar
-for i in {001..002}
+for i in {001..016}
 do
 	../bin/alanc ./codegen_testcases/codegen$i.alan > compilation.out
 	java codegen$i > ./codegen_testcases/actual_output/codegen$i.out
