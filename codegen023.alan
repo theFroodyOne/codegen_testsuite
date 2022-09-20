@@ -1,4 +1,0 @@
-source codegen023
-begin
-    put 10 + 9 > 21
-end
