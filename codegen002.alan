@@ -1,4 +1,0 @@
-source codegen002
-begin
-    put "Hello World! \n"
-end
