@@ -1,0 +1,7 @@
+source codegen044
+begin
+    integer i, j;
+    i := 420;
+    j := 69;
+    put i - j
+end
