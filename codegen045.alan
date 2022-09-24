@@ -1,9 +1,0 @@
-source codegen045
-begin
-    boolean jeff;
-    integer i, j;
-    jeff := true;
-    i := 69;
-    j := 420;
-    put jeff = (i < j) 
-end
