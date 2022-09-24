@@ -18,3 +18,7 @@ Test case 2: String output(hello world)
 Test cases 3-34: Mathematical expressions
 
 Test cases 35-42 Basic boolean expressions
+
+Test cases 43-45 Scalar variables 
+
+Test cases 46-47 While loops(need variables to work)
