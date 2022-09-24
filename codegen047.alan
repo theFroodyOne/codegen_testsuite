@@ -1,8 +1,0 @@
-source codegen047
-begin
-    while (false) 
-    do
-        put "a"
-    end;
-    put "done"
-end
