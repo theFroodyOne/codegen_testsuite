@@ -1,6 +1,0 @@
-source codegen043
-begin
-    integer i;
-    i := 69;
-    put i
-end
