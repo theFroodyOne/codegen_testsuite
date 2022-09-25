@@ -1,0 +1,19 @@
+source codegen056
+begin
+    boolean a;
+    integer i, j;
+    put "input an integer value: \n";
+    get i;
+    put "input an integer value: \n";
+    get j;
+    put "input a boolean value: \n";
+    get a;
+    put a;
+    put "\n";
+    put i;
+    put " + ";
+    put j;
+    put " = ";
+    put i + j;
+    put "\n"
+end

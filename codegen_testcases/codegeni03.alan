@@ -1,0 +1,26 @@
+source codegen058
+begin
+    boolean array a;
+    integer i;
+    integer j;
+    put "Input an integer value: ";
+    get i;
+    a := array i;
+    j := 0;
+    while (j < i) 
+    do
+        put "Please insert the ";
+        put j + 1;
+        put "th boolean value \n";
+        get a[j];
+        j := j + 1
+    end;
+    while (j > 0)
+    do
+        j := j - 1;
+        put j + 1;
+        put "\t";
+        put a[j];
+        put "\n"
+    end
+end

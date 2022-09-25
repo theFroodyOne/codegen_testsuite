@@ -1,0 +1,21 @@
+source codegen059
+    function arrayify(boolean a, boolean b) to boolean array
+    begin
+        boolean array ans;
+        ans := array 2;
+        ans[0] := a;
+        ans[1] := b;
+        leave ans
+    end 
+begin
+    boolean a, b;
+    boolean array barray;
+    a := true;
+    b := false;
+    barray := array 2;
+    put a;
+    put b;
+    barray := arrayify(a, b);
+    put barray[0];
+    put barray[1]
+end

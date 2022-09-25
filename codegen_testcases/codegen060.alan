@@ -1,0 +1,11 @@
+source codegen060
+    function add(integer i, integer j)
+    begin
+        put i + j
+    end
+begin
+    integer i, j;
+    i := 69;
+    j := 420;
+    call add(i, j)
+end

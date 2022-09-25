@@ -1,0 +1,8 @@
+source codegen061
+    function nice() to integer
+    begin
+        leave 69
+    end
+begin
+    put nice()
+end

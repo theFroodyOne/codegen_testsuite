@@ -1,0 +1,10 @@
+source codegen056
+    function nothing()
+    begin
+        integer i;
+        i := 69;
+        put i
+    end
+begin
+    call nothing()
+end

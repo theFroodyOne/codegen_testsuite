@@ -1,0 +1,20 @@
+source codegen048
+begin
+    integer i;
+    integer array a;
+    i := 0;
+    a := array 6;
+    while (i < 6)
+    do
+        a[i] := i * i;
+        i := i + 1
+    end;
+    while (i > 0) 
+    do 
+        i := i - 1;
+        put i;
+        put "\t";
+        put a[i];
+        put "\n"
+    end
+end

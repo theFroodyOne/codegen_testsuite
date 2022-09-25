@@ -1,0 +1,16 @@
+source codegen050
+begin
+    integer i, j;
+    i := 420;
+    j := 69;
+    if (i > j)
+    then
+        put i;
+        put " greater than ";
+        put j
+    else 
+        put i;
+        put " less than ";
+        put j
+    end
+end

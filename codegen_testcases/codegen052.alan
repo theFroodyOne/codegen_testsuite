@@ -1,0 +1,21 @@
+source codegen052
+begin
+    integer i;
+    i := 69;
+    if (i = 69)
+    then
+        put i;
+        put " nice"
+    elsif (i = 420)
+    then 
+        put i;
+        put " time to smoke"
+    elsif (i = 666)
+    then
+        put i;
+        put " the number of the beast"
+    else 
+        put i;
+        put " boring"
+    end
+end

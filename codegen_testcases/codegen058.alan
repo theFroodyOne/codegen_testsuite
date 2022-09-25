@@ -1,0 +1,17 @@
+source codegen058
+    function add(integer i, integer j) to integer
+    begin
+        integer ans;
+        ans := i + j;
+        leave ans
+    end
+begin
+    integer i, j;
+    i := 69;
+    put i;
+    j := 420;
+    put " + ";
+    put j;
+    put " = ";
+    put add(i, j) 
+end
