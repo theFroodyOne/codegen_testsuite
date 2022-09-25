@@ -13,8 +13,6 @@ begin
     a := true;
     b := false;
     barray := array 2;
-    put a;
-    put b;
     barray := arrayify(a, b);
     put barray[0];
     put barray[1]
