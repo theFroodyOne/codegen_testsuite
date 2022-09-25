@@ -9,8 +9,6 @@ Make sure jasmin.jar is in src folder or adjust testscript accordningly
 
 Dependencies: In.java
 
-PLEASE NOTE: Test case 59 is wrong and should be ignored
-
 Test cases currently available:
 
 Test case 1: Trivial program(not really testing anything since there's no output but there ya go)
